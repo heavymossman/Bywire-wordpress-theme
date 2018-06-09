@@ -1,0 +1,114 @@
+ByWire
+Funding 21st Century Media
+
+ELEVATOR PITCH
+What happens when media funding is held in the hands of media barons, governments and advertising? News becomes big business and loses its independence. We provide a platform for media outlets to collect micropayments to sustain their business without resorting to advertising. 
+New media people can trust. 
+ 
+
+PROBLEMS
+
+Why is it important to have people powered funding?
+
+CLICKBAIT: The art of chasing decreasing ad revenue by creating rubbish content. 
+SILOS: We all only get one view of the world, the one we like - whether this is real or not
+TRUST: Trust in media is at its lowest ever, and with good reason
+
+
+Why is it important for the media to have no strings attached funding? 
+
+PROBLEMS 2
+OLIGARCHY: The only people who can keep this failing model alive are Media Barons + Governments
+NO REPORTING: It is too expensive.  Comment + Opinion has replaced accurate reporting.
+TECH GIANTS: Don’t know how to deal with this and failing to create incentives for quality news
+
+
+SOLUTION People Funded Media 
+People funded media is based on micropayments. There is no advertising or subsidies from the rich and powerful. On Bywire you will experience news free of clickbait, corporate or government interests and bad reporting. All our creators produce quality content that they want to make from anywhere in the world and get paid to do it. 
+
+People funded media is based on micropayments. 
+
+SOLUTION 2
+Bywire takes the user experience one step further. Our hub will be able to tackle silos by pushing the user experience towards quality but challenging content everyday. Whilst we recommend articles and content you will like, 10% of the topics on the news feed will be on articles that challenge the users worldview. 
+
+
+People Funded Media in 3 steps 
+CREATE A CURRENCY AND MICROPAYMENT BUTTON FOR AFFILIATE MEDIA SITES
+CREATE A WIDGET THAT TIES ALL AFFILIATE SITES TOGETHER
+BRING ALL THESE SITES, ALONG WITH THOUSANDS OF FREELANCERS AND ALL THESE USERS, ONTO ONE PLATFORM
+
+
+ADDRESSABLE MARKET
+TOTAL MARKET
+Anyone who gets news online.  We have breakdowns for our three key markets, but globally, as you aware, this number is huge and growing.
+UK - In 2016 Roughly 70% got their news online
+US - In the U.S., roughly nine-in-ten adults (93%) get at least some news online (either via mobile or desktop) 
+NL - In 2017 79% get their news online (and 22% pay for it there)
+
+
+ADDRESSABLE MARKET 2
+
+MARKET SHARE WE COULD HAVE
+The market share our current Partners represent: UK traffic around 8 Million unique users monthly, but paying subscribers in the thousands)
+The market share indy media generally has: In the US at least 30 million unique monthly users.  There are organisations globally on an hard to quantify scale
+The Market share we could take from ad based content producers
+
+
+
+REVENUE MODEL
+There will be two key income streams.
+To commission content that we hope will not only push the brand but will create income for ByWire
+The fundamental income stream will be taking a tiny transaction cost from each transaction, whether it is content producer selling to publisher, consumer tipping producer, or publisher revenue from content.  
+
+
+THE TEAM
+THOMAS BARLOW: Founder The Media Fund which represents and works with over 50 independent media organisations in the UK, and several in the US. He has organised several national industry events for the sector, and is a regular speaker on independent media at conferences and online. Thomas sits on the board of the Independent Film Trust, and is a member of the executive of the New Media Industrial Council in the National Union of Journalists. He is also founder of Real Media, Parklife Festival and Pangaea - all successful ongoing concerns.
+MICHAEL O’ SULLIVAN: Micheal is the technical driving force behind Bywire. In 2012 Michael started his own digital agency and is the tech brains behind Labour Coin. His success has led him to work as advisory to Darren Jones MP, core organiser for Labour Digital and now founder of Labour Future, an organisation with nearly 200k supporters on its list. 
+
+
+
+
+TEUN GAUTIER: Tuen is the founder of Amsterdam-based De Cooperatie, a cooperative NGO and media company. He has built a model of decentralised cooperative journalism that ensures security, accountability and opportunities for over 700 freelance journalists and over 70 platforms. Teun is co-founder of De Correspondent, founder and chairman of Publeaks, a whistleblowing platform, Chairman of Zamaneh Media and board member of Veronica, a media supporting foundation.
+PETER JUKES: Manager of Byline, a crowdfunding platform for journalism. Byline has raised £200,000 for combative journalism and has had 50 of content producers on its platform. Under his leadership Byline has partnered with Frontline news, an organisation of over 3000 freelancers globally.  Byline Festival is the largest media festival in the UK. His podcast series ‘The Daniel Morgan Mystery’ had 8 million downloads. Peter’s books on the media have been bestsellers, and his reporting on the phone hacking trial earned the title of best social media reporter of the year by the Press Gazette.
+
+
+JAY SMITH: AKA Jaynemesis. He is one of the most copied crypto and stock traders in the world. Leading the ranks of the social trading platform, Etoro, Jay boosts as impressive $30m AUM and regularly updates his thousands of followers with guidance, advice and free education. 
+OSHI OKOMILO: Having previously developed international touring acts such as ‘Dead Prez’, and co-founded social media software Proofer.com. Oshi now manages the acclaimed publication GuestList.net. GuestList Social, his social media management company manages accounts for 40 clients and employs 10 staff.
+
+
+COMPETITION AND COMPETITIVE ADVANTAGE
+Bywire has 3 competitors
+Civil: A similar idea based firmly in the US market  www.joincivil.com
+Establishment media: Which is supported financially by governments and big corporate interests 
+Tech Giants: Well financed and with larger international audiences with significant numbers of users consuming their daily news headlines from social media
+COMPETITIVE ADVANTAGE
+Civil:  
+We already have a greater number of media partners in the EU and US, with plans to bring in partners from the global south. Our ability to reach consumers internationally is far greater. 
+
+
+Technologically we are using EOS which is considerably faster and better than the Ethereum platform Civil is us currently using
+Existing Media: 
+Despite considerable efforts to prevent their decline the funding model for mainstream establishment media is collapsing, and consumers are turning to alternative independent media sources. Our early adopters are already out there and ready. In a recent survey conducted for Reuters news agency on levels of trust in news media 40% of people surveyed in 30 countries over 50 continents felt that they could not separate fact from fiction in mainstream news. It isn’t just the lack of trust though, people are simply worn out with the amount of news that they feel they can’t trust too. Recent data from the Pew Research Centre reports of widespread news fatigue amongst Americans with as much as 68% of people feeling ‘worn out’ and ‘overwhelmed’. The figures a looking good for users who consume their news on social media too
+
+
+
+Tech Giants: 
+The Tech Giants of today did not see themselves as news producers. Privacy, for example was considered a spent requirement of the youth population and was therefore to be ignored. 
+Today, this is no longer the case and they are under great scrutiny whilst losing users in great numbers. Facebook fatigue is causing them to lose users in great numbers despite their efforts to gain back trust. With 24% of people from the Reuters survey reporting that they couldn’t separate fact from fiction it is easy to see why Facebook’s loss is ByWires gain. 
+
+https://reutersinstitute.politics.ox.ac.uk/sites/default/files/Digital%20News%20Report%202017%20web_0.pdf
+http://www.pewresearch.org/fact-tank/2018/06/05/almost-seven-in-ten-americans-have-news-fatigue-more-among-republicans/
+
+
+DEVELOPMENT/PROJECT PLAN
+CURRENCY AND FUNDING: A 2 STEP PROCESS
+CREATE INITIAL TOKEN ON ETHEREUM - for early investors at beneficial rate
+CREATE PUBLIC OFFERING ON EOS: For use in the micropayment tech
+
+
+CONTACT DETAILS
+thomas@bywire.io
+07955450796
+Bywire.co
+Facebook and twitter
+
