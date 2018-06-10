@@ -50,6 +50,9 @@ if ( ! function_exists( 'bywire_news_setup' ) ) :
 			'copyright' => esc_html__( 'Copyright section', 'bywire-news' )
 		) );
 
+		// Register Custom Navigation Walker
+		require_once get_template_directory() . '/class-wp-bootstrap-navwalker.php';
+
 		/*
 		 * Switch default core markup for search form, comment form, and comments
 		 * to output valid HTML5.
