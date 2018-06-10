@@ -7,6 +7,9 @@
  * @package ByWire_News
  */
 
+ // Register Custom Navigation Walker
+ require_once get_template_directory() . '/class-wp-bootstrap-navwalker.php';
+
 if ( ! function_exists( 'bywire_news_setup' ) ) :
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.
@@ -44,14 +47,13 @@ if ( ! function_exists( 'bywire_news_setup' ) ) :
 
 		// This theme uses wp_nav_menu() in one location.
 		register_nav_menus( array(
-			'main-nav' => esc_html__( 'Primary', 'bywire-news' ),
-			'footer-nav' => esc_html__( 'Footer one', 'bywire-news' ),
-			'footer-nav-2' => esc_html__( 'Footer two', 'bywire-news' ),
-			'copyright' => esc_html__( 'Copyright section', 'bywire-news' )
+			'primary' => __( 'Primary', 'bywire-news' ),
+			'footer-nav' => __( 'Footer one', 'bywire-news' ),
+			'footer-nav-2' => __( 'Footer two', 'bywire-news' ),
+			'copyright' => __( 'Copyright section', 'bywire-news' )
 		) );
 
-		// Register Custom Navigation Walker
-		require_once get_template_directory() . '/class-wp-bootstrap-navwalker.php';
+
 
 		/*
 		 * Switch default core markup for search form, comment form, and comments
